@@ -1,6 +1,6 @@
 ## Photo
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/example.png)
+![Image alt](https://github.com/Enchu/eats-nt/blob/main/example.png) 
 
 ## Get started
 
